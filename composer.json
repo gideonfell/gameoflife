@@ -1,0 +1,16 @@
+{
+    "name": "houfek/game-of-life",
+    "description": "Conway's Game of Life",
+    "authors": [
+        {
+            "name": "Thomas Houfek",
+            "email": "thoufek@nerdery.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Houfek\\GameOfLife\\": "src/"
+         }
+    }
+}
